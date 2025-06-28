@@ -1,0 +1,12 @@
+var x=56;
+console.log(typeof x);
+var y=67.98;
+console.log(typeof y);
+var arr=[1,2,3,4,5];
+console.log(typeof arr);
+var obj={name:"ayushi"};
+console.log(typeof obj);
+var t;
+console.log(typeof t);
+var u=null;
+console.log(typeof u);
